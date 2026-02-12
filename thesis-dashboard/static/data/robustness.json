@@ -1,0 +1,197 @@
+{
+  "coefficients": [
+    {
+      "variable": "(Intercept)",
+      "estimate": -0.0798,
+      "std_error": 0.0598,
+      "p_value": 0.1859,
+      "model": "BING"
+    },
+    {
+      "variable": "bing_net_lag1",
+      "estimate": 3.4943e-06,
+      "std_error": 5.1493e-06,
+      "p_value": 0.4995,
+      "model": "BING"
+    },
+    {
+      "variable": "bing_net_lag2",
+      "estimate": 7.7064e-07,
+      "std_error": 2.1993e-06,
+      "p_value": 0.727,
+      "model": "BING"
+    },
+    {
+      "variable": "gme_abnormal_volume",
+      "estimate": 0.0372,
+      "std_error": 0.0055,
+      "p_value": 3.0796e-09,
+      "model": "BING"
+    },
+    {
+      "variable": "n_comments_lag1",
+      "estimate": 1.4735e-06,
+      "std_error": 1.6631e-06,
+      "p_value": 0.3785,
+      "model": "BING"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": -0.0429,
+      "std_error": 0.025,
+      "p_value": 0.0895,
+      "model": "NRC"
+    },
+    {
+      "variable": "nrc_net_lag1",
+      "estimate": 0,
+      "std_error": 0,
+      "p_value": 0.408,
+      "model": "NRC"
+    },
+    {
+      "variable": "nrc_net_lag2",
+      "estimate": -0,
+      "std_error": 6.558e-06,
+      "p_value": 0.0185,
+      "model": "NRC"
+    },
+    {
+      "variable": "gme_abnormal_volume",
+      "estimate": 0.0392,
+      "std_error": 0.0054,
+      "p_value": 2.2867e-10,
+      "model": "NRC"
+    },
+    {
+      "variable": "n_comments_lag1",
+      "estimate": 2.0824e-07,
+      "std_error": 4.0564e-07,
+      "p_value": 0.6092,
+      "model": "NRC"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": -0.0222,
+      "std_error": 0.0411,
+      "p_value": 0.5911,
+      "model": "AFINN"
+    },
+    {
+      "variable": "afinn_lag1",
+      "estimate": -2.219e-06,
+      "std_error": 1.5057e-06,
+      "p_value": 0.1447,
+      "model": "AFINN"
+    },
+    {
+      "variable": "afinn_lag2",
+      "estimate": 1.2268e-06,
+      "std_error": 7.5235e-07,
+      "p_value": 0.1072,
+      "model": "AFINN"
+    },
+    {
+      "variable": "gme_abnormal_volume",
+      "estimate": 0.0433,
+      "std_error": 0.0068,
+      "p_value": 1.2755e-08,
+      "model": "AFINN"
+    },
+    {
+      "variable": "n_comments_lag1",
+      "estimate": -1.0874e-06,
+      "std_error": 1.2015e-06,
+      "p_value": 0.3684,
+      "model": "AFINN"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": -0.1255,
+      "std_error": 0.0432,
+      "p_value": 0.0048,
+      "model": "WSB"
+    },
+    {
+      "variable": "wsb_lag1",
+      "estimate": -6.0579e-06,
+      "std_error": 2.6276e-06,
+      "p_value": 0.0239,
+      "model": "WSB"
+    },
+    {
+      "variable": "wsb_lag2",
+      "estimate": 1.4702e-07,
+      "std_error": 1.4347e-06,
+      "p_value": 0.9187,
+      "model": "WSB"
+    },
+    {
+      "variable": "gme_abnormal_volume",
+      "estimate": 0.0465,
+      "std_error": 0.0089,
+      "p_value": 1.5987e-06,
+      "model": "WSB"
+    },
+    {
+      "variable": "n_comments_lag1",
+      "estimate": 2.5033e-06,
+      "std_error": 9.0989e-07,
+      "p_value": 0.0074,
+      "model": "WSB"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": -0.0117,
+      "std_error": 0.0367,
+      "p_value": 0.7513,
+      "model": "Combined"
+    },
+    {
+      "variable": "afinn_lag1",
+      "estimate": -2.923e-06,
+      "std_error": 2.3094e-06,
+      "p_value": 0.2096,
+      "model": "Combined"
+    },
+    {
+      "variable": "wsb_lag1",
+      "estimate": -4.883e-06,
+      "std_error": 2.4868e-06,
+      "p_value": 0.0533,
+      "model": "Combined"
+    },
+    {
+      "variable": "bing_net_lag1",
+      "estimate": 5.4082e-06,
+      "std_error": 4.7615e-06,
+      "p_value": 0.2597,
+      "model": "Combined"
+    },
+    {
+      "variable": "emoji_lag1",
+      "estimate": 1.0449e-06,
+      "std_error": 4.0244e-07,
+      "p_value": 0.0114,
+      "model": "Combined"
+    },
+    {
+      "variable": "gme_abnormal_volume",
+      "estimate": 0.0436,
+      "std_error": 0.0084,
+      "p_value": 1.6201e-06,
+      "model": "Combined"
+    },
+    {
+      "variable": "n_comments_lag1",
+      "estimate": 4.3533e-07,
+      "std_error": 1.0223e-06,
+      "p_value": 0.6715,
+      "model": "Combined"
+    }
+  ],
+  "placebo": {
+    "coefficient": 0.007,
+    "p_value": 0.5921
+  }
+}

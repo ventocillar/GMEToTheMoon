@@ -1,0 +1,20 @@
+[
+  {
+    "coefficient": "(Intercept)",
+    "ci_lower": -0.0435,
+    "ci_upper": 0.1322,
+    "mean_est": 0.0436
+  },
+  {
+    "coefficient": "afinn_lag1",
+    "ci_lower": -3.5626e-06,
+    "ci_upper": 5.7979e-06,
+    "mean_est": -2.3282e-07
+  },
+  {
+    "coefficient": "wsb_lag1",
+    "ci_lower": -6.1674e-06,
+    "ci_upper": 7.9018e-06,
+    "mean_est": -4.5199e-08
+  }
+]

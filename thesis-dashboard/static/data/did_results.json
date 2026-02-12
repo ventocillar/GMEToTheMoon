@@ -1,0 +1,1952 @@
+{
+  "event_study": [
+    {
+      "period": -15,
+      "estimate": -1.0273,
+      "std.error": 0.5569,
+      "conf.low": -2.3116,
+      "conf.high": 0.2569,
+      "p.value": 0.1023,
+      "pre_treatment": true
+    },
+    {
+      "period": -14,
+      "estimate": -0.9149,
+      "std.error": 0.5729,
+      "conf.low": -2.2359,
+      "conf.high": 0.4061,
+      "p.value": 0.1489,
+      "pre_treatment": true
+    },
+    {
+      "period": -13,
+      "estimate": -1.0316,
+      "std.error": 0.546,
+      "conf.low": -2.2908,
+      "conf.high": 0.2276,
+      "p.value": 0.0955,
+      "pre_treatment": true
+    },
+    {
+      "period": -9,
+      "estimate": -0.8635,
+      "std.error": 0.5188,
+      "conf.low": -2.0598,
+      "conf.high": 0.3328,
+      "p.value": 0.1346,
+      "pre_treatment": true
+    },
+    {
+      "period": -8,
+      "estimate": -1.0321,
+      "std.error": 0.5623,
+      "conf.low": -2.3287,
+      "conf.high": 0.2645,
+      "p.value": 0.1037,
+      "pre_treatment": true
+    },
+    {
+      "period": -7,
+      "estimate": -1.0057,
+      "std.error": 0.5577,
+      "conf.low": -2.2917,
+      "conf.high": 0.2804,
+      "p.value": 0.109,
+      "pre_treatment": true
+    },
+    {
+      "period": -6,
+      "estimate": -0.8664,
+      "std.error": 0.5258,
+      "conf.low": -2.0789,
+      "conf.high": 0.346,
+      "p.value": 0.138,
+      "pre_treatment": true
+    },
+    {
+      "period": -3,
+      "estimate": -0.8616,
+      "std.error": 0.5306,
+      "conf.low": -2.085,
+      "conf.high": 0.3619,
+      "p.value": 0.1431,
+      "pre_treatment": true
+    },
+    {
+      "period": -2,
+      "estimate": -0.7758,
+      "std.error": 0.5599,
+      "conf.low": -2.0669,
+      "conf.high": 0.5154,
+      "p.value": 0.2033,
+      "pre_treatment": true
+    },
+    {
+      "period": 0,
+      "estimate": -1.372,
+      "std.error": 0.6277,
+      "conf.low": -2.8196,
+      "conf.high": 0.0756,
+      "p.value": 0.0603,
+      "pre_treatment": false
+    },
+    {
+      "period": 1,
+      "estimate": -0.7866,
+      "std.error": 0.4398,
+      "conf.low": -1.8008,
+      "conf.high": 0.2276,
+      "p.value": 0.1115,
+      "pre_treatment": false
+    },
+    {
+      "period": 4,
+      "estimate": -1.0574,
+      "std.error": 0.5782,
+      "conf.low": -2.3908,
+      "conf.high": 0.276,
+      "p.value": 0.1048,
+      "pre_treatment": false
+    },
+    {
+      "period": 5,
+      "estimate": -1.2987,
+      "std.error": 0.6362,
+      "conf.low": -2.7658,
+      "conf.high": 0.1684,
+      "p.value": 0.0755,
+      "pre_treatment": false
+    },
+    {
+      "period": 6,
+      "estimate": -0.9542,
+      "std.error": 0.5489,
+      "conf.low": -2.2201,
+      "conf.high": 0.3117,
+      "p.value": 0.1204,
+      "pre_treatment": false
+    },
+    {
+      "period": 7,
+      "estimate": -1.1761,
+      "std.error": 0.6062,
+      "conf.low": -2.5739,
+      "conf.high": 0.2217,
+      "p.value": 0.0883,
+      "pre_treatment": false
+    },
+    {
+      "period": 8,
+      "estimate": -0.9782,
+      "std.error": 0.5666,
+      "conf.low": -2.2847,
+      "conf.high": 0.3282,
+      "p.value": 0.1225,
+      "pre_treatment": false
+    },
+    {
+      "period": 11,
+      "estimate": -1.0516,
+      "std.error": 0.5857,
+      "conf.low": -2.4023,
+      "conf.high": 0.2991,
+      "p.value": 0.1103,
+      "pre_treatment": false
+    },
+    {
+      "period": 12,
+      "estimate": -1.0949,
+      "std.error": 0.5835,
+      "conf.low": -2.4404,
+      "conf.high": 0.2506,
+      "p.value": 0.0974,
+      "pre_treatment": false
+    },
+    {
+      "period": 13,
+      "estimate": -1.0193,
+      "std.error": 0.541,
+      "conf.low": -2.267,
+      "conf.high": 0.2283,
+      "p.value": 0.0963,
+      "pre_treatment": false
+    },
+    {
+      "period": 14,
+      "estimate": -1.0324,
+      "std.error": 0.5647,
+      "conf.low": -2.3345,
+      "conf.high": 0.2697,
+      "p.value": 0.1049,
+      "pre_treatment": false
+    },
+    {
+      "period": 15,
+      "estimate": -1.0229,
+      "std.error": 0.5515,
+      "conf.low": -2.2945,
+      "conf.high": 0.2488,
+      "p.value": 0.1007,
+      "pre_treatment": false
+    }
+  ],
+  "did_coefs": [
+    {
+      "model": "Basic",
+      "coefficient": -0.0281,
+      "p_value": 0.009
+    },
+    {
+      "model": "Stock FE",
+      "coefficient": -0.0281,
+      "p_value": 0.0088
+    },
+    {
+      "model": "Two-way FE",
+      "coefficient": -0.0281,
+      "p_value": 0.012
+    }
+  ],
+  "cumulative_returns": [
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-01",
+      "mean_return": null,
+      "cumulative_return": 0
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-01",
+      "mean_return": null,
+      "cumulative_return": 0
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-02",
+      "mean_return": -0.0034,
+      "cumulative_return": -0.0034
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-02",
+      "mean_return": -0.0306,
+      "cumulative_return": -0.0306
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-05",
+      "mean_return": 0.0118,
+      "cumulative_return": 0.0085
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-05",
+      "mean_return": -0.0051,
+      "cumulative_return": -0.0358
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-06",
+      "mean_return": -0.0121,
+      "cumulative_return": -0.0036
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-06",
+      "mean_return": -0.0155,
+      "cumulative_return": -0.0513
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-07",
+      "mean_return": 0.0073,
+      "cumulative_return": 0.0037
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-07",
+      "mean_return": 0.0209,
+      "cumulative_return": -0.0304
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-08",
+      "mean_return": 0.0096,
+      "cumulative_return": 0.0133
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-08",
+      "mean_return": 0.0914,
+      "cumulative_return": 0.061
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-09",
+      "mean_return": 0.0089,
+      "cumulative_return": 0.0223
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-09",
+      "mean_return": -0.014,
+      "cumulative_return": 0.047
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-12",
+      "mean_return": 0.0047,
+      "cumulative_return": 0.027
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-12",
+      "mean_return": -0.0056,
+      "cumulative_return": 0.0414
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-13",
+      "mean_return": 0.0091,
+      "cumulative_return": 0.036
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-13",
+      "mean_return": -0.0018,
+      "cumulative_return": 0.0396
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-14",
+      "mean_return": -0.0166,
+      "cumulative_return": 0.0194
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-14",
+      "mean_return": -0.0351,
+      "cumulative_return": 0.0044
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-15",
+      "mean_return": 0.0075,
+      "cumulative_return": 0.0269
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-15",
+      "mean_return": 0.0142,
+      "cumulative_return": 0.0186
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-16",
+      "mean_return": -0.0011,
+      "cumulative_return": 0.0258
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-16",
+      "mean_return": -0.0046,
+      "cumulative_return": 0.014
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-19",
+      "mean_return": -0.0099,
+      "cumulative_return": 0.0159
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-19",
+      "mean_return": 0.0465,
+      "cumulative_return": 0.0605
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-20",
+      "mean_return": -0.0015,
+      "cumulative_return": 0.0144
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-20",
+      "mean_return": -0.0328,
+      "cumulative_return": 0.0277
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-21",
+      "mean_return": 0.0009,
+      "cumulative_return": 0.0153
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-21",
+      "mean_return": -0.0075,
+      "cumulative_return": 0.0202
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-22",
+      "mean_return": -0.0186,
+      "cumulative_return": -0.0033
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-22",
+      "mean_return": 0.0304,
+      "cumulative_return": 0.0506
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-23",
+      "mean_return": 0.0037,
+      "cumulative_return": 0.0004
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-23",
+      "mean_return": -0.006,
+      "cumulative_return": 0.0445
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-26",
+      "mean_return": -0.0074,
+      "cumulative_return": -0.0069
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-26",
+      "mean_return": -0.0503,
+      "cumulative_return": -0.0058
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-27",
+      "mean_return": -0.0045,
+      "cumulative_return": -0.0114
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-27",
+      "mean_return": -0.0057,
+      "cumulative_return": -0.0114
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-28",
+      "mean_return": -0.0124,
+      "cumulative_return": -0.0238
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-28",
+      "mean_return": -0.0481,
+      "cumulative_return": -0.0595
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-29",
+      "mean_return": -0.0013,
+      "cumulative_return": -0.0251
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-29",
+      "mean_return": -0.0684,
+      "cumulative_return": -0.1279
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-10-30",
+      "mean_return": -0.0082,
+      "cumulative_return": -0.0332
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-10-30",
+      "mean_return": -0.0578,
+      "cumulative_return": -0.1858
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-02",
+      "mean_return": 0.0063,
+      "cumulative_return": -0.0269
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-02",
+      "mean_return": -0.0107,
+      "cumulative_return": -0.1965
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-03",
+      "mean_return": 0.0188,
+      "cumulative_return": -0.0081
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-03",
+      "mean_return": 0.0556,
+      "cumulative_return": -0.1409
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-04",
+      "mean_return": -0.0041,
+      "cumulative_return": -0.0122
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-04",
+      "mean_return": -0.015,
+      "cumulative_return": -0.1559
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-05",
+      "mean_return": 0.0128,
+      "cumulative_return": 0.0006
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-05",
+      "mean_return": 0.0682,
+      "cumulative_return": -0.0877
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-06",
+      "mean_return": 0.0159,
+      "cumulative_return": 0.0165
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-06",
+      "mean_return": 0.0037,
+      "cumulative_return": -0.084
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-09",
+      "mean_return": -0.0426,
+      "cumulative_return": -0.0261
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-09",
+      "mean_return": 0.068,
+      "cumulative_return": -0.0159
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-10",
+      "mean_return": 0.016,
+      "cumulative_return": -0.0101
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-10",
+      "mean_return": -0.0251,
+      "cumulative_return": -0.0411
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-11",
+      "mean_return": 0.0116,
+      "cumulative_return": 0.0015
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-11",
+      "mean_return": 0.004,
+      "cumulative_return": -0.0371
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-12",
+      "mean_return": 0.0002,
+      "cumulative_return": 0.0017
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-12",
+      "mean_return": -0.0264,
+      "cumulative_return": -0.0634
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-13",
+      "mean_return": 0.0113,
+      "cumulative_return": 0.013
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-13",
+      "mean_return": 0.0132,
+      "cumulative_return": -0.0503
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-16",
+      "mean_return": 0.007,
+      "cumulative_return": 0.02
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-16",
+      "mean_return": 0.0284,
+      "cumulative_return": -0.0219
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-17",
+      "mean_return": -0.0154,
+      "cumulative_return": 0.0046
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-17",
+      "mean_return": 0.0128,
+      "cumulative_return": -0.0091
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-18",
+      "mean_return": 0.0063,
+      "cumulative_return": 0.0108
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-18",
+      "mean_return": 0.0205,
+      "cumulative_return": 0.0114
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-19",
+      "mean_return": 0.0206,
+      "cumulative_return": 0.0315
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-19",
+      "mean_return": 0.009,
+      "cumulative_return": 0.0204
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-20",
+      "mean_return": -0.0053,
+      "cumulative_return": 0.0262
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-20",
+      "mean_return": 0.0443,
+      "cumulative_return": 0.0647
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-23",
+      "mean_return": 0.0143,
+      "cumulative_return": 0.0404
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-23",
+      "mean_return": 0.0634,
+      "cumulative_return": 0.1281
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-24",
+      "mean_return": 0.0009,
+      "cumulative_return": 0.0413
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-24",
+      "mean_return": 0.0404,
+      "cumulative_return": 0.1685
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-25",
+      "mean_return": 0.0054,
+      "cumulative_return": 0.0467
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-25",
+      "mean_return": 0.0269,
+      "cumulative_return": 0.1954
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-27",
+      "mean_return": 0.0016,
+      "cumulative_return": 0.0483
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-27",
+      "mean_return": 0.027,
+      "cumulative_return": 0.2224
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-11-30",
+      "mean_return": 0.0067,
+      "cumulative_return": 0.055
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-11-30",
+      "mean_return": -0.0214,
+      "cumulative_return": 0.201
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-01",
+      "mean_return": 0.0006,
+      "cumulative_return": 0.0556
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-01",
+      "mean_return": 0.0123,
+      "cumulative_return": 0.2133
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-02",
+      "mean_return": -0.0152,
+      "cumulative_return": 0.0403
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-02",
+      "mean_return": 0.0281,
+      "cumulative_return": 0.2414
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-03",
+      "mean_return": -0.0186,
+      "cumulative_return": 0.0218
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-03",
+      "mean_return": -0.0372,
+      "cumulative_return": 0.2041
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-04",
+      "mean_return": -0.0042,
+      "cumulative_return": 0.0176
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-04",
+      "mean_return": 0.0315,
+      "cumulative_return": 0.2357
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-07",
+      "mean_return": -0.0014,
+      "cumulative_return": 0.0162
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-07",
+      "mean_return": -0.0185,
+      "cumulative_return": 0.2172
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-08",
+      "mean_return": 0.0025,
+      "cumulative_return": 0.0187
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-08",
+      "mean_return": 0.0468,
+      "cumulative_return": 0.2639
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-09",
+      "mean_return": -0.0036,
+      "cumulative_return": 0.0151
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-09",
+      "mean_return": -0.0582,
+      "cumulative_return": 0.2058
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-10",
+      "mean_return": -0.0073,
+      "cumulative_return": 0.0078
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-10",
+      "mean_return": 0.0163,
+      "cumulative_return": 0.2221
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-11",
+      "mean_return": 0.0009,
+      "cumulative_return": 0.0087
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-11",
+      "mean_return": -0.0357,
+      "cumulative_return": 0.1864
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-14",
+      "mean_return": -0.0045,
+      "cumulative_return": 0.0042
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-14",
+      "mean_return": -0.0455,
+      "cumulative_return": 0.1408
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-15",
+      "mean_return": 0.0019,
+      "cumulative_return": 0.0061
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-15",
+      "mean_return": 0.0241,
+      "cumulative_return": 0.165
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-16",
+      "mean_return": 0.0023,
+      "cumulative_return": 0.0083
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-16",
+      "mean_return": -0.0022,
+      "cumulative_return": 0.1627
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-17",
+      "mean_return": 0.0026,
+      "cumulative_return": 0.0109
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-17",
+      "mean_return": 0.0365,
+      "cumulative_return": 0.1992
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-18",
+      "mean_return": -0.0049,
+      "cumulative_return": 0.006
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-18",
+      "mean_return": -0.0463,
+      "cumulative_return": 0.1529
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-21",
+      "mean_return": 0.002,
+      "cumulative_return": 0.008
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-21",
+      "mean_return": -0.0119,
+      "cumulative_return": 0.141
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-22",
+      "mean_return": 0.0011,
+      "cumulative_return": 0.009
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-22",
+      "mean_return": 0.0356,
+      "cumulative_return": 0.1765
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-23",
+      "mean_return": 0.0038,
+      "cumulative_return": 0.0128
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-23",
+      "mean_return": 0.0034,
+      "cumulative_return": 0.1799
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-24",
+      "mean_return": 0.0021,
+      "cumulative_return": 0.015
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-24",
+      "mean_return": -0.0133,
+      "cumulative_return": 0.1666
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-28",
+      "mean_return": 0.0025,
+      "cumulative_return": 0.0175
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-28",
+      "mean_return": -0.0249,
+      "cumulative_return": 0.1416
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-29",
+      "mean_return": -0.0018,
+      "cumulative_return": 0.0157
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-29",
+      "mean_return": -0.0245,
+      "cumulative_return": 0.1171
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-30",
+      "mean_return": -0.0028,
+      "cumulative_return": 0.0129
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-30",
+      "mean_return": -0.0141,
+      "cumulative_return": 0.103
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2020-12-31",
+      "mean_return": 0.0059,
+      "cumulative_return": 0.0188
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2020-12-31",
+      "mean_return": -0.0253,
+      "cumulative_return": 0.0777
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-04",
+      "mean_return": 0.0083,
+      "cumulative_return": 0.0271
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-04",
+      "mean_return": -0.0236,
+      "cumulative_return": 0.0541
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-05",
+      "mean_return": -0.0028,
+      "cumulative_return": 0.0243
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-05",
+      "mean_return": 0.0292,
+      "cumulative_return": 0.0833
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-06",
+      "mean_return": 0.0262,
+      "cumulative_return": 0.0505
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-06",
+      "mean_return": 0.0148,
+      "cumulative_return": 0.0981
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-07",
+      "mean_return": 0.0026,
+      "cumulative_return": 0.0531
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-07",
+      "mean_return": 0.0203,
+      "cumulative_return": 0.1183
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-08",
+      "mean_return": -0.0004,
+      "cumulative_return": 0.0527
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-08",
+      "mean_return": 0.0026,
+      "cumulative_return": 0.1209
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-11",
+      "mean_return": 0.0037,
+      "cumulative_return": 0.0564
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-11",
+      "mean_return": 0.0242,
+      "cumulative_return": 0.1451
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-12",
+      "mean_return": 0.0095,
+      "cumulative_return": 0.0658
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-12",
+      "mean_return": 0.0484,
+      "cumulative_return": 0.1935
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-13",
+      "mean_return": -0.0019,
+      "cumulative_return": 0.064
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-13",
+      "mean_return": 0.0952,
+      "cumulative_return": 0.2888
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-14",
+      "mean_return": 0.004,
+      "cumulative_return": 0.068
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-14",
+      "mean_return": 0.1196,
+      "cumulative_return": 0.4083
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-15",
+      "mean_return": -0.0059,
+      "cumulative_return": 0.062
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-15",
+      "mean_return": -0.007,
+      "cumulative_return": 0.4013
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-19",
+      "mean_return": -0.0176,
+      "cumulative_return": 0.0444
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-19",
+      "mean_return": 0.1494,
+      "cumulative_return": 0.5507
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-20",
+      "mean_return": -0.0013,
+      "cumulative_return": 0.0431
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-20",
+      "mean_return": -0.003,
+      "cumulative_return": 0.5477
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-21",
+      "mean_return": 0.007,
+      "cumulative_return": 0.0501
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-21",
+      "mean_return": 0.0319,
+      "cumulative_return": 0.5796
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-22",
+      "mean_return": 0.0042,
+      "cumulative_return": 0.0543
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-22",
+      "mean_return": 0.1683,
+      "cumulative_return": 0.7479
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-25",
+      "mean_return": 0.0054,
+      "cumulative_return": 0.0598
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-25",
+      "mean_return": 0.1744,
+      "cumulative_return": 0.9222
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-26",
+      "mean_return": 0.0166,
+      "cumulative_return": 0.0763
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-26",
+      "mean_return": 0.2713,
+      "cumulative_return": 1.1935
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-27",
+      "mean_return": -0.0153,
+      "cumulative_return": 0.061
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-27",
+      "mean_return": 1.0152,
+      "cumulative_return": 2.2087
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-28",
+      "mean_return": -0.0152,
+      "cumulative_return": 0.0458
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-28",
+      "mean_return": -0.3567,
+      "cumulative_return": 1.852
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-01-29",
+      "mean_return": -0.0207,
+      "cumulative_return": 0.0251
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-01-29",
+      "mean_return": 0.2231,
+      "cumulative_return": 2.0751
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-01",
+      "mean_return": -0.007,
+      "cumulative_return": 0.018
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-01",
+      "mean_return": -0.034,
+      "cumulative_return": 2.0411
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-02",
+      "mean_return": 0.0044,
+      "cumulative_return": 0.0224
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-02",
+      "mean_return": -0.2638,
+      "cumulative_return": 1.7773
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-03",
+      "mean_return": 0.0072,
+      "cumulative_return": 0.0295
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-03",
+      "mean_return": 0.0835,
+      "cumulative_return": 1.8608
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-04",
+      "mean_return": 0.0032,
+      "cumulative_return": 0.0328
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-04",
+      "mean_return": -0.1424,
+      "cumulative_return": 1.7184
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-05",
+      "mean_return": -0.0011,
+      "cumulative_return": 0.0317
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-05",
+      "mean_return": 0.0511,
+      "cumulative_return": 1.7695
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-08",
+      "mean_return": 0.0148,
+      "cumulative_return": 0.0464
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-08",
+      "mean_return": -0.0064,
+      "cumulative_return": 1.7631
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-09",
+      "mean_return": 0.0106,
+      "cumulative_return": 0.057
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-09",
+      "mean_return": -0.0538,
+      "cumulative_return": 1.7093
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-10",
+      "mean_return": -0.0078,
+      "cumulative_return": 0.0492
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-10",
+      "mean_return": 0.0034,
+      "cumulative_return": 1.7127
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-11",
+      "mean_return": -0.0046,
+      "cumulative_return": 0.0446
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-11",
+      "mean_return": -0.0065,
+      "cumulative_return": 1.7061
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-12",
+      "mean_return": 0.0044,
+      "cumulative_return": 0.049
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-12",
+      "mean_return": 0.0155,
+      "cumulative_return": 1.7217
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-16",
+      "mean_return": 0.0018,
+      "cumulative_return": 0.0508
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-16",
+      "mean_return": -0.028,
+      "cumulative_return": 1.6936
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-17",
+      "mean_return": 0.0135,
+      "cumulative_return": 0.0642
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-17",
+      "mean_return": -0.0373,
+      "cumulative_return": 1.6564
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-18",
+      "mean_return": -0.0212,
+      "cumulative_return": 0.043
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-18",
+      "mean_return": -0.0407,
+      "cumulative_return": 1.6156
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-19",
+      "mean_return": -0.0029,
+      "cumulative_return": 0.0401
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-19",
+      "mean_return": 0.0113,
+      "cumulative_return": 1.6269
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-22",
+      "mean_return": -0.0071,
+      "cumulative_return": 0.033
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-22",
+      "mean_return": 0.0345,
+      "cumulative_return": 1.6615
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-23",
+      "mean_return": -0.0162,
+      "cumulative_return": 0.0168
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-23",
+      "mean_return": 0.0107,
+      "cumulative_return": 1.6722
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-24",
+      "mean_return": -0.0086,
+      "cumulative_return": 0.0082
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-24",
+      "mean_return": 0.2317,
+      "cumulative_return": 1.9039
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-25",
+      "mean_return": -0.0127,
+      "cumulative_return": -0.0045
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-25",
+      "mean_return": -0.0007,
+      "cumulative_return": 1.9032
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-02-26",
+      "mean_return": -0.0072,
+      "cumulative_return": -0.0117
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-02-26",
+      "mean_return": -0.0445,
+      "cumulative_return": 1.8586
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-01",
+      "mean_return": 0.0169,
+      "cumulative_return": 0.0051
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-01",
+      "mean_return": 0.1066,
+      "cumulative_return": 1.9652
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-02",
+      "mean_return": -0.0301,
+      "cumulative_return": -0.025
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-02",
+      "mean_return": -0.0295,
+      "cumulative_return": 1.9357
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-03",
+      "mean_return": -0.0042,
+      "cumulative_return": -0.0292
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-03",
+      "mean_return": -0.0189,
+      "cumulative_return": 1.9168
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-04",
+      "mean_return": -0.0058,
+      "cumulative_return": -0.035
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-04",
+      "mean_return": -0.0231,
+      "cumulative_return": 1.8937
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-05",
+      "mean_return": 0.0106,
+      "cumulative_return": -0.0244
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-05",
+      "mean_return": 0.0075,
+      "cumulative_return": 1.9012
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-08",
+      "mean_return": 0.0105,
+      "cumulative_return": -0.0138
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-08",
+      "mean_return": 0.1169,
+      "cumulative_return": 2.0181
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-09",
+      "mean_return": 0.0097,
+      "cumulative_return": -0.0041
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-09",
+      "mean_return": 0.1186,
+      "cumulative_return": 2.1367
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-10",
+      "mean_return": 0.0123,
+      "cumulative_return": 0.0082
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-10",
+      "mean_return": -0.003,
+      "cumulative_return": 2.1336
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-11",
+      "mean_return": 0.0016,
+      "cumulative_return": 0.0098
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-11",
+      "mean_return": 0.0354,
+      "cumulative_return": 2.169
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-12",
+      "mean_return": 0.0115,
+      "cumulative_return": 0.0213
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-12",
+      "mean_return": 0.0446,
+      "cumulative_return": 2.2136
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-15",
+      "mean_return": 0.0059,
+      "cumulative_return": 0.0272
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-15",
+      "mean_return": 0.0343,
+      "cumulative_return": 2.248
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-16",
+      "mean_return": -0.0024,
+      "cumulative_return": 0.0249
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-16",
+      "mean_return": -0.0365,
+      "cumulative_return": 2.2114
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-17",
+      "mean_return": -0.0162,
+      "cumulative_return": 0.0087
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-17",
+      "mean_return": 0.0146,
+      "cumulative_return": 2.226
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-18",
+      "mean_return": -0.0174,
+      "cumulative_return": -0.0087
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-18",
+      "mean_return": -0.0341,
+      "cumulative_return": 2.1919
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-19",
+      "mean_return": 0.0321,
+      "cumulative_return": 0.0234
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-19",
+      "mean_return": 0.0129,
+      "cumulative_return": 2.2048
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-22",
+      "mean_return": 0.0157,
+      "cumulative_return": 0.039
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-22",
+      "mean_return": -0.0374,
+      "cumulative_return": 2.1675
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-23",
+      "mean_return": 0.0113,
+      "cumulative_return": 0.0503
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-23",
+      "mean_return": -0.0715,
+      "cumulative_return": 2.0959
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-24",
+      "mean_return": -0.0088,
+      "cumulative_return": 0.0416
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-24",
+      "mean_return": -0.1312,
+      "cumulative_return": 1.9647
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-25",
+      "mean_return": 0.0139,
+      "cumulative_return": 0.0555
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-25",
+      "mean_return": 0.1623,
+      "cumulative_return": 2.1271
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-26",
+      "mean_return": 0.0246,
+      "cumulative_return": 0.08
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-26",
+      "mean_return": -0.0099,
+      "cumulative_return": 2.1172
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-29",
+      "mean_return": 0.0047,
+      "cumulative_return": 0.0847
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-29",
+      "mean_return": -0.0153,
+      "cumulative_return": 2.1019
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-30",
+      "mean_return": -0.001,
+      "cumulative_return": 0.0836
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-30",
+      "mean_return": 0.0219,
+      "cumulative_return": 2.1238
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-03-31",
+      "mean_return": -0.0145,
+      "cumulative_return": 0.0692
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-03-31",
+      "mean_return": -0.025,
+      "cumulative_return": 2.0988
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-01",
+      "mean_return": 0.0024,
+      "cumulative_return": 0.0716
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-01",
+      "mean_return": -0.0015,
+      "cumulative_return": 2.0973
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-05",
+      "mean_return": 0.0254,
+      "cumulative_return": 0.097
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-05",
+      "mean_return": 0.0332,
+      "cumulative_return": 2.1305
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-06",
+      "mean_return": -0.0002,
+      "cumulative_return": 0.0968
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-06",
+      "mean_return": -0.0172,
+      "cumulative_return": 2.1134
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-07",
+      "mean_return": 0.0002,
+      "cumulative_return": 0.0969
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-07",
+      "mean_return": -0.0246,
+      "cumulative_return": 2.0887
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-08",
+      "mean_return": 0.0009,
+      "cumulative_return": 0.0979
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-08",
+      "mean_return": 0.0111,
+      "cumulative_return": 2.0999
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-09",
+      "mean_return": 0.0055,
+      "cumulative_return": 0.1034
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-09",
+      "mean_return": -0.0067,
+      "cumulative_return": 2.0932
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-12",
+      "mean_return": 0.0039,
+      "cumulative_return": 0.1073
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-12",
+      "mean_return": -0.0422,
+      "cumulative_return": 2.051
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-13",
+      "mean_return": 0.0001,
+      "cumulative_return": 0.1073
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-13",
+      "mean_return": 0.0246,
+      "cumulative_return": 2.0755
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-14",
+      "mean_return": 0.0004,
+      "cumulative_return": 0.1077
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-14",
+      "mean_return": 0.0446,
+      "cumulative_return": 2.1201
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-15",
+      "mean_return": 0.0038,
+      "cumulative_return": 0.1115
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-15",
+      "mean_return": -0.0106,
+      "cumulative_return": 2.1095
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-16",
+      "mean_return": 0.0048,
+      "cumulative_return": 0.1163
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-16",
+      "mean_return": -0.0154,
+      "cumulative_return": 2.0941
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-19",
+      "mean_return": 0.0007,
+      "cumulative_return": 0.117
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-19",
+      "mean_return": 0.0002,
+      "cumulative_return": 2.0944
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-20",
+      "mean_return": 0.0043,
+      "cumulative_return": 0.1212
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-20",
+      "mean_return": -0.0303,
+      "cumulative_return": 2.064
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-21",
+      "mean_return": -0.0005,
+      "cumulative_return": 0.1207
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-21",
+      "mean_return": 0.0303,
+      "cumulative_return": 2.0943
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-22",
+      "mean_return": -0.0093,
+      "cumulative_return": 0.1114
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-22",
+      "mean_return": -0.0105,
+      "cumulative_return": 2.0839
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-23",
+      "mean_return": -0.0017,
+      "cumulative_return": 0.1097
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-23",
+      "mean_return": 0.0183,
+      "cumulative_return": 2.1022
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-26",
+      "mean_return": -0.0137,
+      "cumulative_return": 0.096
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-26",
+      "mean_return": 0.0535,
+      "cumulative_return": 2.1556
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-27",
+      "mean_return": 0.0041,
+      "cumulative_return": 0.1001
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-27",
+      "mean_return": 0.0181,
+      "cumulative_return": 2.1737
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-28",
+      "mean_return": -0.002,
+      "cumulative_return": 0.0981
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-28",
+      "mean_return": -0.0098,
+      "cumulative_return": 2.164
+    },
+    {
+      "group": "Control Stocks",
+      "date": "2021-04-29",
+      "mean_return": 0.0128,
+      "cumulative_return": 0.1109
+    },
+    {
+      "group": "Meme Stocks",
+      "date": "2021-04-29",
+      "mean_return": 0.0129,
+      "cumulative_return": 2.1769
+    }
+  ]
+}

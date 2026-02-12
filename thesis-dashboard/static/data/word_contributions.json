@@ -1,0 +1,202 @@
+[
+  {
+    "word": "fuck",
+    "sentiment": "negative",
+    "count": 16785
+  },
+  {
+    "word": "fucking",
+    "sentiment": "negative",
+    "count": 15872
+  },
+  {
+    "word": "shit",
+    "sentiment": "negative",
+    "count": 13679
+  },
+  {
+    "word": "flair",
+    "sentiment": "negative",
+    "count": 7042
+  },
+  {
+    "word": "concerns",
+    "sentiment": "negative",
+    "count": 6034
+  },
+  {
+    "word": "retard",
+    "sentiment": "negative",
+    "count": 5753
+  },
+  {
+    "word": "hedge",
+    "sentiment": "negative",
+    "count": 5174
+  },
+  {
+    "word": "lose",
+    "sentiment": "negative",
+    "count": 5098
+  },
+  {
+    "word": "retarded",
+    "sentiment": "negative",
+    "count": 4956
+  },
+  {
+    "word": "retards",
+    "sentiment": "negative",
+    "count": 4475
+  },
+  {
+    "word": "loss",
+    "sentiment": "negative",
+    "count": 4375
+  },
+  {
+    "word": "bad",
+    "sentiment": "negative",
+    "count": 4319
+  },
+  {
+    "word": "hard",
+    "sentiment": "negative",
+    "count": 3692
+  },
+  {
+    "word": "dick",
+    "sentiment": "negative",
+    "count": 3640
+  },
+  {
+    "word": "wrong",
+    "sentiment": "negative",
+    "count": 3333
+  },
+  {
+    "word": "lost",
+    "sentiment": "negative",
+    "count": 3321
+  },
+  {
+    "word": "damn",
+    "sentiment": "negative",
+    "count": 3240
+  },
+  {
+    "word": "limit",
+    "sentiment": "negative",
+    "count": 3083
+  },
+  {
+    "word": "risk",
+    "sentiment": "negative",
+    "count": 2442
+  },
+  {
+    "word": "losses",
+    "sentiment": "negative",
+    "count": 2299
+  },
+  {
+    "word": "love",
+    "sentiment": "positive",
+    "count": 6002
+  },
+  {
+    "word": "pretty",
+    "sentiment": "positive",
+    "count": 4123
+  },
+  {
+    "word": "nice",
+    "sentiment": "positive",
+    "count": 3774
+  },
+  {
+    "word": "gains",
+    "sentiment": "positive",
+    "count": 3725
+  },
+  {
+    "word": "worth",
+    "sentiment": "positive",
+    "count": 3647
+  },
+  {
+    "word": "free",
+    "sentiment": "positive",
+    "count": 3350
+  },
+  {
+    "word": "fidelity",
+    "sentiment": "positive",
+    "count": 3125
+  },
+  {
+    "word": "strong",
+    "sentiment": "positive",
+    "count": 2832
+  },
+  {
+    "word": "top",
+    "sentiment": "positive",
+    "count": 2758
+  },
+  {
+    "word": "rich",
+    "sentiment": "positive",
+    "count": 2515
+  },
+  {
+    "word": "win",
+    "sentiment": "positive",
+    "count": 2355
+  },
+  {
+    "word": "holy",
+    "sentiment": "positive",
+    "count": 2282
+  },
+  {
+    "word": "happy",
+    "sentiment": "positive",
+    "count": 2014
+  },
+  {
+    "word": "gain",
+    "sentiment": "positive",
+    "count": 2009
+  },
+  {
+    "word": "afford",
+    "sentiment": "positive",
+    "count": 1884
+  },
+  {
+    "word": "ready",
+    "sentiment": "positive",
+    "count": 1880
+  },
+  {
+    "word": "fun",
+    "sentiment": "positive",
+    "count": 1851
+  },
+  {
+    "word": "easy",
+    "sentiment": "positive",
+    "count": 1799
+  },
+  {
+    "word": "luck",
+    "sentiment": "positive",
+    "count": 1672
+  },
+  {
+    "word": "fine",
+    "sentiment": "positive",
+    "count": 1624
+  }
+]

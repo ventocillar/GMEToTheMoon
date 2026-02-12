@@ -1,0 +1,354 @@
+[
+  {
+    "horizon": 0,
+    "response": 0,
+    "lower": 0,
+    "upper": 0,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 1,
+    "response": -0.0039,
+    "lower": -0.0625,
+    "upper": 0.0525,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 2,
+    "response": -0.0152,
+    "lower": -0.0633,
+    "upper": 0.0359,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 3,
+    "response": 0.0144,
+    "lower": -0.0321,
+    "upper": 0.0654,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 4,
+    "response": 0.011,
+    "lower": -0.0159,
+    "upper": 0.041,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 5,
+    "response": 0.0062,
+    "lower": -0.0223,
+    "upper": 0.0427,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 6,
+    "response": 0.0159,
+    "lower": -0.0078,
+    "upper": 0.0398,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 7,
+    "response": 0.0058,
+    "lower": -0.0188,
+    "upper": 0.0361,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 8,
+    "response": 0.0041,
+    "lower": -0.0163,
+    "upper": 0.0248,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 9,
+    "response": 0.0053,
+    "lower": -0.0102,
+    "upper": 0.0225,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 10,
+    "response": -0.0011,
+    "lower": -0.0168,
+    "upper": 0.0149,
+    "impulse": "AFINN Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 0,
+    "response": 0,
+    "lower": 0,
+    "upper": 0,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 1,
+    "response": 0.0159,
+    "lower": -0.0393,
+    "upper": 0.0693,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 2,
+    "response": 0.1044,
+    "lower": 0.0336,
+    "upper": 0.1429,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 3,
+    "response": -0.0209,
+    "lower": -0.0758,
+    "upper": 0.0397,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 4,
+    "response": 0.0198,
+    "lower": -0.0387,
+    "upper": 0.0705,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 5,
+    "response": 0.0092,
+    "lower": -0.0529,
+    "upper": 0.0586,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 6,
+    "response": -0.0519,
+    "lower": -0.099,
+    "upper": 0.0082,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 7,
+    "response": -0.0303,
+    "lower": -0.0831,
+    "upper": 0.0342,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 8,
+    "response": -0.0442,
+    "lower": -0.0956,
+    "upper": 0.0141,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 9,
+    "response": -0.0253,
+    "lower": -0.0742,
+    "upper": 0.0346,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 10,
+    "response": -0.0377,
+    "lower": -0.079,
+    "upper": 0.0131,
+    "impulse": "WSB Sentiment",
+    "response_var": "GME Return"
+  },
+  {
+    "horizon": 0,
+    "response": -22435.9434,
+    "lower": -39442.9075,
+    "upper": -2292.7413,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 1,
+    "response": -48899.4465,
+    "lower": -70167.5097,
+    "upper": -21205.4014,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 2,
+    "response": -54326.4091,
+    "lower": -73542.034,
+    "upper": -24103.0358,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 3,
+    "response": -32832.9599,
+    "lower": -51900.4001,
+    "upper": -7069.9684,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 4,
+    "response": -39710.5311,
+    "lower": -58979.6559,
+    "upper": -13192.4904,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 5,
+    "response": -28124.0826,
+    "lower": -47732.5943,
+    "upper": -3343.4686,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 6,
+    "response": -12207.5757,
+    "lower": -31534.1016,
+    "upper": 11360.2547,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 7,
+    "response": -12949.155,
+    "lower": -28486.0007,
+    "upper": 10267.3051,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 8,
+    "response": -3593.9619,
+    "lower": -19843.5916,
+    "upper": 16754.2947,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 9,
+    "response": -200.7961,
+    "lower": -18107.1703,
+    "upper": 18928.6891,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 10,
+    "response": -2410.6733,
+    "lower": -17569.1713,
+    "upper": 17357.6906,
+    "impulse": "GME Return",
+    "response_var": "AFINN Sentiment"
+  },
+  {
+    "horizon": 0,
+    "response": 15638.6305,
+    "lower": 7487.831,
+    "upper": 19545.0862,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  },
+  {
+    "horizon": 1,
+    "response": 22394.3717,
+    "lower": 11495.4905,
+    "upper": 25806.8346,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  },
+  {
+    "horizon": 2,
+    "response": 22896.4862,
+    "lower": 9620.1021,
+    "upper": 27897.3461,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  },
+  {
+    "horizon": 3,
+    "response": 20208.2992,
+    "lower": 5679.2822,
+    "upper": 27376.6654,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  },
+  {
+    "horizon": 4,
+    "response": 22550.6714,
+    "lower": 4166.582,
+    "upper": 30500.9043,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  },
+  {
+    "horizon": 5,
+    "response": 16667.0685,
+    "lower": -1047.6091,
+    "upper": 26609.5829,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  },
+  {
+    "horizon": 6,
+    "response": 11218.8248,
+    "lower": -5729.1379,
+    "upper": 21881.4208,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  },
+  {
+    "horizon": 7,
+    "response": 12819.5271,
+    "lower": -4215.0857,
+    "upper": 24719.559,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  },
+  {
+    "horizon": 8,
+    "response": 9905.2038,
+    "lower": -6669.3958,
+    "upper": 20550.1759,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  },
+  {
+    "horizon": 9,
+    "response": 15194.1678,
+    "lower": -1110.1934,
+    "upper": 26231.5095,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  },
+  {
+    "horizon": 10,
+    "response": 18589.7872,
+    "lower": 1149.1457,
+    "upper": 29721.2366,
+    "impulse": "GME Return",
+    "response_var": "WSB Sentiment"
+  }
+]

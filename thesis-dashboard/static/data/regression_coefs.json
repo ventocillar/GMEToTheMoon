@@ -1,0 +1,260 @@
+{
+  "coefficients": [
+    {
+      "variable": "(Intercept)",
+      "estimate": 0.0129,
+      "std_error": 0.0282,
+      "t_stat": 0.4575,
+      "p_value": 0.6486,
+      "ci_lower": -0.0424,
+      "ci_upper": 0.0682,
+      "model": "AFINN Contemporaneous"
+    },
+    {
+      "variable": "afinn_score",
+      "estimate": -5.6696e-07,
+      "std_error": 4.5016e-07,
+      "t_stat": -1.2595,
+      "p_value": 0.2115,
+      "ci_lower": -1.4493e-06,
+      "ci_upper": 3.1535e-07,
+      "model": "AFINN Contemporaneous"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": 0.0385,
+      "std_error": 0.0284,
+      "t_stat": 1.3548,
+      "p_value": 0.1793,
+      "ci_lower": -0.0172,
+      "ci_upper": 0.0943,
+      "model": "AFINN Lagged"
+    },
+    {
+      "variable": "afinn_lag1",
+      "estimate": -3.3299e-07,
+      "std_error": 3.2892e-07,
+      "t_stat": -1.0124,
+      "p_value": 0.3144,
+      "ci_lower": -9.7767e-07,
+      "ci_upper": 3.1169e-07,
+      "model": "AFINN Lagged"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": -0.0222,
+      "std_error": 0.0411,
+      "t_stat": -0.5395,
+      "p_value": 0.5911,
+      "ci_lower": -0.1028,
+      "ci_upper": 0.0584,
+      "model": "AFINN Full"
+    },
+    {
+      "variable": "afinn_lag1",
+      "estimate": -2.219e-06,
+      "std_error": 1.5057e-06,
+      "t_stat": -1.4737,
+      "p_value": 0.1447,
+      "ci_lower": -5.1701e-06,
+      "ci_upper": 7.3214e-07,
+      "model": "AFINN Full"
+    },
+    {
+      "variable": "afinn_lag2",
+      "estimate": 1.2268e-06,
+      "std_error": 7.5235e-07,
+      "t_stat": 1.6307,
+      "p_value": 0.1072,
+      "ci_lower": -2.4778e-07,
+      "ci_upper": 2.7014e-06,
+      "model": "AFINN Full"
+    },
+    {
+      "variable": "gme_abnormal_volume",
+      "estimate": 0.0433,
+      "std_error": 0.0068,
+      "t_stat": 6.3873,
+      "p_value": 1.2755e-08,
+      "ci_lower": 0.03,
+      "ci_upper": 0.0566,
+      "model": "AFINN Full"
+    },
+    {
+      "variable": "n_comments_lag1",
+      "estimate": -1.0874e-06,
+      "std_error": 1.2015e-06,
+      "t_stat": -0.905,
+      "p_value": 0.3684,
+      "ci_lower": -3.4424e-06,
+      "ci_upper": 1.2676e-06,
+      "model": "AFINN Full"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": 0.0424,
+      "std_error": 0.0297,
+      "t_stat": 1.4305,
+      "p_value": 0.1565,
+      "ci_lower": -0.0157,
+      "ci_upper": 0.1006,
+      "model": "WSB Lagged"
+    },
+    {
+      "variable": "wsb_lag1",
+      "estimate": 4.553e-07,
+      "std_error": 7.9717e-07,
+      "t_stat": 0.5711,
+      "p_value": 0.5695,
+      "ci_lower": -1.1071e-06,
+      "ci_upper": 2.0178e-06,
+      "model": "WSB Lagged"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": -0.1255,
+      "std_error": 0.0432,
+      "t_stat": -2.9065,
+      "p_value": 0.0048,
+      "ci_lower": -0.2102,
+      "ci_upper": -0.0409,
+      "model": "WSB Full"
+    },
+    {
+      "variable": "wsb_lag1",
+      "estimate": -6.0579e-06,
+      "std_error": 2.6276e-06,
+      "t_stat": -2.3055,
+      "p_value": 0.0239,
+      "ci_lower": -0,
+      "ci_upper": -9.0781e-07,
+      "model": "WSB Full"
+    },
+    {
+      "variable": "wsb_lag2",
+      "estimate": 1.4702e-07,
+      "std_error": 1.4347e-06,
+      "t_stat": 0.1025,
+      "p_value": 0.9187,
+      "ci_lower": -2.665e-06,
+      "ci_upper": 2.959e-06,
+      "model": "WSB Full"
+    },
+    {
+      "variable": "gme_abnormal_volume",
+      "estimate": 0.0465,
+      "std_error": 0.0089,
+      "t_stat": 5.2111,
+      "p_value": 1.5987e-06,
+      "ci_lower": 0.029,
+      "ci_upper": 0.0641,
+      "model": "WSB Full"
+    },
+    {
+      "variable": "n_comments_lag1",
+      "estimate": 2.5033e-06,
+      "std_error": 9.0989e-07,
+      "t_stat": 2.7512,
+      "p_value": 0.0074,
+      "ci_lower": 7.199e-07,
+      "ci_upper": 4.2866e-06,
+      "model": "WSB Full"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": 0.041,
+      "std_error": 0.0297,
+      "t_stat": 1.3819,
+      "p_value": 0.171,
+      "ci_lower": -0.0171,
+      "ci_upper": 0.0991,
+      "model": "Text Only"
+    },
+    {
+      "variable": "afinn_lag1",
+      "estimate": -6.8178e-07,
+      "std_error": 1.4052e-06,
+      "t_stat": -0.4852,
+      "p_value": 0.6289,
+      "ci_lower": -3.4359e-06,
+      "ci_upper": 2.0724e-06,
+      "model": "Text Only"
+    },
+    {
+      "variable": "wsb_lag1",
+      "estimate": -6.1667e-07,
+      "std_error": 2.9205e-06,
+      "t_stat": -0.2111,
+      "p_value": 0.8333,
+      "ci_lower": -6.3409e-06,
+      "ci_upper": 5.1076e-06,
+      "model": "Text Only"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": 0.0327,
+      "std_error": 0.0262,
+      "t_stat": 1.2508,
+      "p_value": 0.2147,
+      "ci_lower": -0.0186,
+      "ci_upper": 0.084,
+      "model": "Emoji Only"
+    },
+    {
+      "variable": "emoji_lag1",
+      "estimate": 3.12e-07,
+      "std_error": 2.3375e-07,
+      "t_stat": 1.3347,
+      "p_value": 0.1858,
+      "ci_lower": -1.4616e-07,
+      "ci_upper": 7.7016e-07,
+      "model": "Emoji Only"
+    },
+    {
+      "variable": "(Intercept)",
+      "estimate": 0.1095,
+      "std_error": 0.0407,
+      "t_stat": 2.6909,
+      "p_value": 0.0087,
+      "ci_lower": 0.0297,
+      "ci_upper": 0.1892,
+      "model": "Combined"
+    },
+    {
+      "variable": "afinn_lag1",
+      "estimate": -1.8419e-07,
+      "std_error": 1.2444e-06,
+      "t_stat": -0.148,
+      "p_value": 0.8827,
+      "ci_lower": -2.6232e-06,
+      "ci_upper": 2.2548e-06,
+      "model": "Combined"
+    },
+    {
+      "variable": "wsb_lag1",
+      "estimate": -4.219e-06,
+      "std_error": 1.7926e-06,
+      "t_stat": -2.3536,
+      "p_value": 0.0211,
+      "ci_lower": -7.7324e-06,
+      "ci_upper": -7.0553e-07,
+      "model": "Combined"
+    },
+    {
+      "variable": "emoji_lag1",
+      "estimate": 1.3865e-06,
+      "std_error": 4.7042e-07,
+      "t_stat": 2.9475,
+      "p_value": 0.0042,
+      "ci_lower": 4.6453e-07,
+      "ci_upper": 2.3086e-06,
+      "model": "Combined"
+    }
+  ],
+  "emoji_f_test": {
+    "f_statistic": 11.9613,
+    "p_value": 0.0009,
+    "df1": 1,
+    "df2": 77
+  }
+}

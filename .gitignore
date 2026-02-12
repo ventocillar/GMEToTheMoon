@@ -1,0 +1,40 @@
+# Data files (too large for git)
+data/wsb_data.sqlite
+data/*.sqlite-journal
+*.xlsx
+*.csv.gz
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+renv/python/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output (regenerable)
+output/figures/*.png
+output/figures/*.pdf
+output/tables/*.tex
+output/tables/*.html
+
+# Dashboard (regenerable build artifacts)
+thesis-dashboard/node_modules/
+thesis-dashboard/.svelte-kit/
+thesis-dashboard/build/
+
+# IDE
+.vscode/
+.idea/
+*.Rproj

@@ -1,0 +1,26 @@
+[
+  {
+    "direction": "AFINN -> Returns",
+    "f_statistic": 0.3827,
+    "p_value": 0.8207,
+    "significant": false
+  },
+  {
+    "direction": "Returns -> AFINN",
+    "f_statistic": 11.4496,
+    "p_value": 4.6989e-08,
+    "significant": true
+  },
+  {
+    "direction": "WSB -> Returns",
+    "f_statistic": 1.6731,
+    "p_value": 0.0972,
+    "significant": false
+  },
+  {
+    "direction": "Returns -> WSB",
+    "f_statistic": 4.5578,
+    "p_value": 0,
+    "significant": true
+  }
+]

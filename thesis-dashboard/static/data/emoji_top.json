@@ -1,0 +1,122 @@
+[
+  {
+    "emoji": "🚀",
+    "count": 2861745,
+    "sentiment_value": 3,
+    "description": "rocket"
+  },
+  {
+    "emoji": "💎",
+    "count": 732430,
+    "sentiment_value": 2,
+    "description": "gem_stone"
+  },
+  {
+    "emoji": "🙌",
+    "count": 297435,
+    "sentiment_value": 1,
+    "description": "raising_hands"
+  },
+  {
+    "emoji": "🦍",
+    "count": 218175,
+    "sentiment_value": 1,
+    "description": "gorilla"
+  },
+  {
+    "emoji": "🌑",
+    "count": 172498,
+    "sentiment_value": null,
+    "description": null
+  },
+  {
+    "emoji": "😂",
+    "count": 152349,
+    "sentiment_value": 0,
+    "description": "face_with_tears_of_joy"
+  },
+  {
+    "emoji": "️",
+    "count": 129233,
+    "sentiment_value": null,
+    "description": null
+  },
+  {
+    "emoji": "‍",
+    "count": 103948,
+    "sentiment_value": null,
+    "description": null
+  },
+  {
+    "emoji": "🌕",
+    "count": 86742,
+    "sentiment_value": 2,
+    "description": "full_moon"
+  },
+  {
+    "emoji": "🏻",
+    "count": 75729,
+    "sentiment_value": null,
+    "description": null
+  },
+  {
+    "emoji": "🤡",
+    "count": 68919,
+    "sentiment_value": -1,
+    "description": "clown_face"
+  },
+  {
+    "emoji": "👐",
+    "count": 68519,
+    "sentiment_value": 1,
+    "description": "open_hands"
+  },
+  {
+    "emoji": "✋",
+    "count": 64004,
+    "sentiment_value": 1,
+    "description": "raised_hand"
+  },
+  {
+    "emoji": "🤣",
+    "count": 63176,
+    "sentiment_value": 0,
+    "description": "rolling_on_floor_laughing"
+  },
+  {
+    "emoji": "🏼",
+    "count": 55478,
+    "sentiment_value": null,
+    "description": null
+  },
+  {
+    "emoji": "🤲",
+    "count": 53653,
+    "sentiment_value": null,
+    "description": null
+  },
+  {
+    "emoji": "🍌",
+    "count": 47396,
+    "sentiment_value": 1,
+    "description": "banana"
+  },
+  {
+    "emoji": "🌈",
+    "count": 46121,
+    "sentiment_value": -1,
+    "description": "rainbow"
+  },
+  {
+    "emoji": "🐻",
+    "count": 45857,
+    "sentiment_value": -2,
+    "description": "bear"
+  },
+  {
+    "emoji": "🤚",
+    "count": 31769,
+    "sentiment_value": null,
+    "description": null
+  }
+]
