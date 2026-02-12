@@ -714,6 +714,8 @@ Standard library modules used: `sqlite3`, `json`, `time`, `datetime`, `argparse`
 
 ## 15. Authors
 
-Almeida Franco, R.
+**Renato Ventocilla Franco** and **Francisco Almeida**
 
-*Master Thesis -- [University Name]*
+*Master Thesis -- Hertie School*
+
+Supervisor: **Marc Kayser**
